@@ -4,8 +4,14 @@ I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuin
 
 ## 🚀 Background
 
-- 🔍 **Education:** MS in Computer Science & Engineering, Santa Clara University (2022-Present)
--                   B.Tech in Computer Science & Engineering, NIT Warangal, India (2018-2022)
+- 🔍 **Education:**
+
+- **MS in Computer Science & Engineering**
+  - *Santa Clara University (2022-Present)*
+
+- **B.Tech in Computer Science & Engineering**
+  - *NIT Warangal, India (2018-2022)*
+
 
 ## 💻 Experience
 
