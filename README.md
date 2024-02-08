@@ -2,10 +2,7 @@
 
 I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuing an MS in Computer Science & Engineering at Santa Clara University. I bring a blend of academic excellence, hands-on experience, and a deep love for technology.
 
-## 🚀 Background
-
-- 🔍 **Education:**
-
+## 🔍 Education
 - **MS in Computer Science & Engineering**
   - *Santa Clara University (2022-Present)*
 
