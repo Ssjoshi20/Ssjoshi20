@@ -13,7 +13,7 @@ I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuin
 ## 💻 Experience
 
 - 🌐 **Software Intern at Samsung R&D (May 2021 - July 2021):** Contributed to the development of critical features for 4G and 5G networks, specializing in IP throughput monitoring.
-- 🎮 **Co-founder & Game Developer at GBIT Studios (Aug 2019 - Aug 2022):** Led a team in creating and publishing FPS, VR, and mobile games.
+- 🎮 **Developer at GBIT Studios (Aug 2019 - Aug 2022):** Led a team in creating and publishing FPS, VR, and mobile games.
 
 ## 🛠️ Skills
 
