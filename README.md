@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuing an MS in Computer Science & Engineering at Santa Clara University. I bring a blend of academic excellence, hands-on experience, and a deep love for technology.
+I'm Shreyas Joshi, a passionate and versatile Graduate in MS CS from Santa Clara University. I bring a blend of academic excellence, hands-on experience, and a deep love for technology.
 
 ## 🔍 Education
 - **MS in Computer Science & Engineering**
@@ -11,7 +11,8 @@ I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuin
 
 
 ## 💻 Experience
-
+- 💼 **Software Engineer at Google (Dec 2024 – Present)**: Creating internal frameworks and tooling that streamline Apple development at Google.
+- 📚 **Software Developer at Frugal Innovation Hub (Oct 2023 – Dec 2024)**: Developed a bilingual mathematics learning application, enabling students to seamlessly switch between two languages and enhancing accessibility for diverse learners.
 - 🌐 **Software Intern at Samsung R&D (May 2021 - July 2021):** Contributed to the development of critical features for 4G and 5G networks, specializing in IP throughput monitoring.
 - 🎮 **Developer at GBIT Studios (Aug 2019 - Aug 2022):** Led a team in creating and publishing FPS, VR, and mobile games.
 
@@ -36,6 +37,7 @@ I'm Shreyas Joshi, a passionate and versatile Graduate student currently pursuin
 
 - 📄 "Deep Learning Framework to Detect Face Masks from Video Footage."
 - 📄 "SD-Measure: A Social Distancing Detector."
+- 📄 "Uncertainty-Aware Post-Detection Framework for Enhanced Fire and Smoke Detection in Compact Deep Learning Models"
 
 ## 🌐 Connect with Me
 
